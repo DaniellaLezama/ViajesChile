@@ -1,0 +1,19 @@
+body{
+   background-color: black;
+   font-family: 'Raleway', sans-serif; 
+   color: white;}
+html{
+    scroll-behavior: smooth;}
+/*cambio color navbar*/
+.bgnice, .card-body, .barra{
+    background-color: #17a3b8;
+}
+hr{
+    color: #17a3b8;
+    height: 10px;
+}
+/*Footer*/
+.fab{
+    color:#FFFFFF;
+}
+
