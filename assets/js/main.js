@@ -7,4 +7,6 @@ $(document).ready(function () {
         } 
         else{$("#inicio").removeClass("bgnice")};
         });
+    //Tooltip    
+    $( '[data-toggle="tooltip"]' ).tooltip();
 });
