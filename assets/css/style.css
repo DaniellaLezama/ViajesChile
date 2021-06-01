@@ -2,6 +2,7 @@ body{
    background-color: black;
    font-family: 'Raleway', sans-serif; 
    color: white;}
+/*smooth scroll*/   
 html{
     scroll-behavior: smooth;}
 /*cambio color navbar*/
